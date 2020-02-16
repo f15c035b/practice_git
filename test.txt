@@ -18,3 +18,7 @@ test
 test
 test
 test
+
+git add
+git text
+‚ð•×‹­‚µ‚Ä‚¢‚é‚æ
